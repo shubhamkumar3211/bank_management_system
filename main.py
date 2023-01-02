@@ -1,5 +1,5 @@
 import mysql.connector
-data_bases=mysql.connector.connect(host="localhost",user="root",password="Shubham@2001",database="bank_management")
+data_bases=mysql.connector.connect(host="localhost",user="root",password="1234567890",database="bank_management")
 
 
 
