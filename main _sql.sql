@@ -4,7 +4,6 @@ create table Account (Name varchar(25),Account_No varchar(10),DOB varchar(10),Ad
 show tables;
 create table Amount(Name varchar(25),Account_No varchar(10),Balance int);
 show tables;
-desc Account;
-desc Amount;
-select*from bank_management.Account;
+
+
 
